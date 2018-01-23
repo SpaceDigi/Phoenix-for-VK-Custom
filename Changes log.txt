@@ -7,9 +7,9 @@ biz.dealnote.messenger.model.drawer.SectionDrawerItem ====>5-7
 biz.dealnote.messenger.model.drawer.DividerDrawerItem ====>5-7
 biz.dealnote.messenger.model.drawer.IconDrawerItem ====>5-7
 biz.dealnote.messenger.model.drawer.NoIconDrawerItem ====>5-7
-ѕросто заметка, коммент оставл€ю, но ничего не мен€ю(чтобы студи€ предлагала реализовать)
+Just marks for main developer of this project, that implementation isn't neccessary
 *****************************************************************/
-package biz.dealnote.messenger.fragment.NavigationFragment ====> 326-327 - предложение новой функции
+package biz.dealnote.messenger.fragment.NavigationFragment ====> 326-327 - new feature offer
 
 
 
