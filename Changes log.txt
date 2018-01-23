@@ -1,0 +1,15 @@
+package biz.dealnote.messenger.fragment.NavigationFragment ====> 206-208
+biz.dealnote.messenger.mvp.presenter.UserWallPresenter ====> 194-196
+biz.dealnote.messenger.adapter.PollAnswersAdapter ====> 42-44
+/**************************************************************
+biz.dealnote.messenger.model.drawer.RecentChat ====> 4-6
+biz.dealnote.messenger.model.drawer.SectionDrawerItem ====>5-7
+biz.dealnote.messenger.model.drawer.DividerDrawerItem ====>5-7
+biz.dealnote.messenger.model.drawer.IconDrawerItem ====>5-7
+biz.dealnote.messenger.model.drawer.NoIconDrawerItem ====>5-7
+ѕросто заметка, коммент оставл€ю, но ничего не мен€ю(чтобы студи€ предлагала реализовать)
+*****************************************************************/
+package biz.dealnote.messenger.fragment.NavigationFragment ====> 326-327 - предложение новой функции
+
+
+
